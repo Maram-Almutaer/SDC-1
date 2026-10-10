@@ -1,0 +1,9 @@
+name = "sahara-souq"
+main = "src/index.ts"
+compatibility_date = "2024-09-25"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "sahara-souq-db"
+database_id = "eee380f7-c7ea-40ac-8111-056a4614ed25"
+migrations_dir = "migrations"
